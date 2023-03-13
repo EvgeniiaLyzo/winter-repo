@@ -1,0 +1,60 @@
+2023-03-07 17:26:13.357 [main] INFO  com.qa.test.EcomTest - Initiating logs for tests
+2023-03-07 17:26:13.422 [main] INFO  com.qa.test.EcomTest - Initiating reports
+2023-03-07 17:26:13.482 [main] INFO  com.qa.test.EcomTest - Initiating tests on Chrome browser
+2023-03-07 17:28:40.528 [main] INFO  com.qa.test.EcomTest - Initiating logs for tests
+2023-03-07 17:28:40.584 [main] INFO  com.qa.test.EcomTest - Initiating reports
+2023-03-07 17:28:40.599 [main] INFO  com.qa.test.EcomTest - Initiating tests on Chrome browser
+2023-03-07 17:44:24.864 [main] INFO  com.qa.test.EcomTest - Initiating logs for tests
+2023-03-07 17:44:24.919 [main] INFO  com.qa.test.EcomTest - Initiating reports
+2023-03-07 17:49:42.514 [main] INFO  com.qa.test.EcomTest - Initiating logs for tests
+2023-03-07 17:49:42.570 [main] INFO  com.qa.test.EcomTest - Initiating reports
+2023-03-07 18:11:08.927 [main] INFO  com.qa.test.EcomTest - Initiating logs for tests
+2023-03-07 18:11:08.976 [main] INFO  com.qa.test.EcomTest - Initiating reports
+2023-03-07 18:14:02.499 [main] INFO  com.qa.test.EcomTest - Initiating logs for tests
+2023-03-07 18:14:02.559 [main] INFO  com.qa.test.EcomTest - Initiating reports
+2023-03-07 18:14:36.830 [main] INFO  com.qa.test.EcomTest - Initiating logs for tests
+2023-03-07 18:14:36.881 [main] INFO  com.qa.test.EcomTest - Initiating reports
+2023-03-07 18:14:36.894 [main] INFO  com.qa.test.EcomTest - Initiating tests on Chrome browser
+2023-03-07 18:16:29.610 [main] INFO  com.qa.test.EcomTest - Initiating logs for tests
+2023-03-07 18:16:29.661 [main] INFO  com.qa.test.EcomTest - Initiating reports
+2023-03-07 18:22:32.790 [main] INFO  com.qa.test.EcomTest - Initiating logs for tests
+2023-03-07 18:22:32.837 [main] INFO  com.qa.test.EcomTest - Initiating reports
+2023-03-07 18:24:32.050 [main] INFO  com.qa.test.EcomTest - Initiating logs for tests
+2023-03-07 18:24:32.109 [main] INFO  com.qa.test.EcomTest - Initiating reports
+2023-03-07 18:24:32.123 [main] INFO  com.qa.test.EcomTest - Initiating tests on Chrome browser
+2023-03-07 18:25:31.225 [main] INFO  com.qa.test.EcomTest - Initiating logs for tests
+2023-03-07 18:25:31.273 [main] INFO  com.qa.test.EcomTest - Initiating reports
+2023-03-07 18:26:50.027 [main] INFO  com.qa.test.EcomTest - Initiating logs for tests
+2023-03-07 18:26:50.083 [main] INFO  com.qa.test.EcomTest - Initiating reports
+2023-03-07 18:28:44.139 [main] INFO  com.qa.test.EcomTest - Initiating logs for tests
+2023-03-07 18:28:44.197 [main] INFO  com.qa.test.EcomTest - Initiating reports
+2023-03-07 18:29:41.214 [main] INFO  com.qa.test.EcomTest - Initiating logs for tests
+2023-03-07 18:29:41.272 [main] INFO  com.qa.test.EcomTest - Initiating reports
+2023-03-07 18:32:59.202 [main] INFO  com.qa.test.EcomTest - Initiating logs for tests
+2023-03-07 18:32:59.254 [main] INFO  com.qa.test.EcomTest - Initiating reports
+2023-03-07 18:32:59.644 [main] INFO  com.qa.test.EcomTest - Initiating tests on Chrome browser
+2023-03-07 18:33:07.876 [main] INFO  com.qa.test.EcomTest - Initiating tests on Chrome browser
+2023-03-07 18:33:14.414 [main] INFO  com.qa.test.EcomTest - Initiating tests on Chrome browser
+2023-03-07 18:33:22.452 [main] INFO  com.qa.test.EcomTest - Initiating tests on Chrome browser
+2023-03-07 18:35:35.980 [main] INFO  com.qa.test.EcomTest - Initiating logs for tests
+2023-03-07 18:35:36.027 [main] INFO  com.qa.test.EcomTest - Initiating reports
+2023-03-07 18:35:36.396 [main] INFO  com.qa.test.EcomTest - Initiating tests on Chrome browser
+2023-03-07 18:35:43.001 [main] ERROR com.qa.test.EcomTest - ERROR OCCURED WHEN REGISTERING NEW USER!
+2023-03-07 18:35:43.640 [main] INFO  com.qa.test.EcomTest - Initiating tests on Chrome browser
+2023-03-07 18:35:48.556 [main] ERROR com.qa.test.EcomTest - ERROR OCCURED WHEN REGISTERING NEW USER!
+2023-03-07 18:35:49.177 [main] INFO  com.qa.test.EcomTest - Initiating tests on Chrome browser
+2023-03-07 18:35:54.554 [main] ERROR com.qa.test.EcomTest - ERROR OCCURED WHEN REGISTERING NEW USER!
+2023-03-07 18:35:55.168 [main] INFO  com.qa.test.EcomTest - Initiating tests on Chrome browser
+2023-03-07 18:36:00.513 [main] ERROR com.qa.test.EcomTest - ERROR OCCURED WHEN REGISTERING NEW USER!
+2023-03-07 18:40:10.098 [main] INFO  com.qa.test.EcomTest - Initiating logs for tests
+2023-03-07 18:40:10.146 [main] INFO  com.qa.test.EcomTest - Initiating reports
+2023-03-07 18:40:10.523 [main] INFO  com.qa.test.EcomTest - Initiating tests on Chrome browser
+2023-03-07 18:40:17.005 [main] INFO  com.qa.test.EcomTest - Initiating tests on Chrome browser
+2023-03-07 18:40:22.668 [main] INFO  com.qa.test.EcomTest - Initiating tests on Chrome browser
+2023-03-07 18:40:28.292 [main] INFO  com.qa.test.EcomTest - Initiating tests on Chrome browser
+2023-03-07 18:41:34.150 [main] INFO  com.qa.test.EcomTest - Initiating logs for tests
+2023-03-07 18:41:34.207 [main] INFO  com.qa.test.EcomTest - Initiating reports
+2023-03-07 18:41:34.600 [main] INFO  com.qa.test.EcomTest - Initiating tests on Chrome browser
+2023-03-07 18:41:41.502 [main] INFO  com.qa.test.EcomTest - Initiating tests on Chrome browser
+2023-03-07 18:41:47.244 [main] INFO  com.qa.test.EcomTest - Initiating tests on Chrome browser
+2023-03-07 18:41:52.959 [main] INFO  com.qa.test.EcomTest - Initiating tests on Chrome browser

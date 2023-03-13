@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="4" total="8" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="24735" started-at="2023-03-07T18:41:34 EST" finished-at="2023-03-07T18:41:58 EST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="24735" started-at="2023-03-07T18:41:34 EST" finished-at="2023-03-07T18:41:58 EST">
+      <class name="com.qa.test.EcomTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.test.EcomTest@a3d8174]" name="setup" is-config="true" duration-ms="64" started-at="2023-03-07T18:41:34 EST" finished-at="2023-03-07T18:41:34 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="initBrowserAndReport()[pri:0, instance:com.qa.test.EcomTest@a3d8174]" name="initBrowserAndReport" is-config="true" duration-ms="2277" started-at="2023-03-07T18:41:34 EST" finished-at="2023-03-07T18:41:36 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initBrowserAndReport -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:4, instance:com.qa.test.EcomTest@a3d8174]" name="login" duration-ms="4010" started-at="2023-03-07T18:41:36 EST" data-provider="loginData" finished-at="2023-03-07T18:41:40 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[AaA@gmail.com111111]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[a111222]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="closeBrowserAndReport()[pri:0, instance:com.qa.test.EcomTest@a3d8174]" name="closeBrowserAndReport" is-config="true" duration-ms="611" started-at="2023-03-07T18:41:40 EST" finished-at="2023-03-07T18:41:41 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowserAndReport -->
+        <test-method status="PASS" signature="initBrowserAndReport()[pri:0, instance:com.qa.test.EcomTest@a3d8174]" name="initBrowserAndReport" is-config="true" duration-ms="1161" started-at="2023-03-07T18:41:41 EST" finished-at="2023-03-07T18:41:42 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initBrowserAndReport -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:4, instance:com.qa.test.EcomTest@a3d8174]" name="login" duration-ms="3957" started-at="2023-03-07T18:41:42 EST" data-provider="loginData" finished-at="2023-03-07T18:41:46 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[AaA@gmail.com211111]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[b111222]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="closeBrowserAndReport()[pri:0, instance:com.qa.test.EcomTest@a3d8174]" name="closeBrowserAndReport" is-config="true" duration-ms="622" started-at="2023-03-07T18:41:46 EST" finished-at="2023-03-07T18:41:47 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowserAndReport -->
+        <test-method status="PASS" signature="initBrowserAndReport()[pri:0, instance:com.qa.test.EcomTest@a3d8174]" name="initBrowserAndReport" is-config="true" duration-ms="1287" started-at="2023-03-07T18:41:47 EST" finished-at="2023-03-07T18:41:48 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initBrowserAndReport -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:4, instance:com.qa.test.EcomTest@a3d8174]" name="login" duration-ms="3819" started-at="2023-03-07T18:41:48 EST" data-provider="loginData" finished-at="2023-03-07T18:41:52 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[AaA@gmail.com311111]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[c111222]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="closeBrowserAndReport()[pri:0, instance:com.qa.test.EcomTest@a3d8174]" name="closeBrowserAndReport" is-config="true" duration-ms="606" started-at="2023-03-07T18:41:52 EST" finished-at="2023-03-07T18:41:52 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowserAndReport -->
+        <test-method status="PASS" signature="initBrowserAndReport()[pri:0, instance:com.qa.test.EcomTest@a3d8174]" name="initBrowserAndReport" is-config="true" duration-ms="1227" started-at="2023-03-07T18:41:52 EST" finished-at="2023-03-07T18:41:54 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initBrowserAndReport -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:4, instance:com.qa.test.EcomTest@a3d8174]" name="login" duration-ms="3902" started-at="2023-03-07T18:41:54 EST" data-provider="loginData" finished-at="2023-03-07T18:41:58 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[AaA@gmail.com41111]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[d111222]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="closeBrowserAndReport()[pri:0, instance:com.qa.test.EcomTest@a3d8174]" name="closeBrowserAndReport" is-config="true" duration-ms="607" started-at="2023-03-07T18:41:58 EST" finished-at="2023-03-07T18:41:58 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowserAndReport -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.test.EcomTest@a3d8174]" name="tearDown" is-config="true" duration-ms="173" started-at="2023-03-07T18:41:58 EST" finished-at="2023-03-07T18:41:58 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.test.EcomTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
