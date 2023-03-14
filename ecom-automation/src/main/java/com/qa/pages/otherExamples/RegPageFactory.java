@@ -8,6 +8,7 @@ import org.openqa.selenium.support.PageFactory;
 
 // PAGE FACTORY NOT RECOMMENDED FOR USE!!!
 // THIS IS FOR PURPOSE OF EXAMPLE
+// JUST ADDED A COMMENT TO CHECK GIT
 
 
 public class RegPageFactory {
@@ -32,7 +33,7 @@ public class RegPageFactory {
 		firstName.sendKeys(fName);
 	}
 	
-	
+	public void method() {}
 	
 //	By firstName = By.id("input-firstname");
 //	By lastName = By.id("input-lastname");
