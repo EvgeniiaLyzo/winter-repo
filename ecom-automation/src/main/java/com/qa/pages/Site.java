@@ -5,6 +5,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
+// Links to different pages
 public class Site {
 	public static final String BASE_URL = "https://naveenautomationlabs.com/opencart/index.php?route=";
 
