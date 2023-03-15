@@ -10,6 +10,8 @@ import org.openqa.selenium.support.PageFactory;
 // THIS IS FOR PURPOSE OF EXAMPLE
 // JUST ADDED A COMMENT TO CHECK GIT
 
+//
+
 
 public class RegPageFactory {
 	private WebDriver driver;
